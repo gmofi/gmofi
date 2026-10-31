@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="143" height="50" viewBox="0 0 143 50" role="img" aria-label="Windows">
+<title>Windows</title>
+<defs>
+ <linearGradient id="plate" x2="0" y2="1"><stop stop-color="#232830"/><stop offset="1" stop-color="#101319"/></linearGradient>
+ <linearGradient id="edge" x2="0" y2="1"><stop stop-color="#707b88"/><stop offset=".48" stop-color="#2a323d"/><stop offset="1" stop-color="#121820"/></linearGradient>
+ <linearGradient id="letters" x2="0" y2="1"><stop stop-color="#f3f5f7"/><stop offset="1" stop-color="#bdc5cf"/></linearGradient>
+</defs>
+<path d="M8 2H134L141 9V39L134 46H8L2 40V8Z" fill="url(#plate)" stroke="url(#edge)"/>
+<path d="M9 3H132" stroke="#b9c4cf" stroke-opacity=".22"/>
+<path d="M48 12V36" stroke="#414b58" stroke-opacity=".65"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" x="15" y="12" width="25" height="25"><path fill="#0078d4" d="M67.328 67.331h60.669V128H67.328zm-67.325 0h60.669V128H.003zM67.328 0h60.669v60.669H67.328zM.003 0h60.669v60.669H.003z" /></svg>
+<text x="59" y="31" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" fill="url(#letters)">Windows</text>
+</svg>
